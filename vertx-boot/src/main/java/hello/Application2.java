@@ -7,7 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import io.vertx.core.Vertx;
-
+/*
 @SpringBootApplication
 public class Application {
 
@@ -23,5 +23,5 @@ public class Application {
 	public void deployVerticle() {
 		Vertx.vertx().deployVerticle(staticServer);
 	}
-
+*/
 }
